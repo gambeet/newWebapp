@@ -10,11 +10,6 @@
     <input type="submit" value="Submit">
 </form>
 
-<form method="post" action="service/getsomedata">
-    <input type="text" name="name" required>
-    <input type="submit" value="Submit">
-</form>
-
 <table>
     <c:forEach items="${list}" var="item">
         <tr>
