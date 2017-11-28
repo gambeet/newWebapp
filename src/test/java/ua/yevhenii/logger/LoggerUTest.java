@@ -1,4 +1,4 @@
-package test.java.ua.yevhenii.logger;
+package ua.yevhenii.logger;
 
 import org.junit.Assert;
 import org.junit.Test;
